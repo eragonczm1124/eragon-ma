@@ -1,0 +1,14 @@
+.textline {
+  font-size: 100px;
+  color: black;
+  position: fixed;
+}
+
+#page1 {
+  position: fixed;
+  z-index: 1;
+}
+
+.textline{
+  z-index: 2;
+}
